@@ -27,7 +27,7 @@ export class Component2 extends React.Component {
 		);
 
 		function sum1(){
-			return (7+10);
+			return (15+15);
 		}
 
 		console.log
