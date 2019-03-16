@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
-    "prod": "NODE_ENV=production node server.js",
-    "postinstall": "webpack -p"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm run build",
+    "build": "webpack --mode development",
+    "start": "webpack-dev-server"
+    
   },
   "author": "",
   "license": "ISC",
