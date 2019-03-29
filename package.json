@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node ../node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "prod": "NODE_ENV=production node server.js",
-    "postinstall": "webpack -p"
+    "postinstall": "webpack -p",
+    "localStart": "webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
@@ -17,7 +18,8 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1",
-    "express" :"^4.16.4"
+    "express": "^4.16.4",
+    "@pusher/chatkit-client": "^1.4.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -27,6 +29,6 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1",
-    "express" :"^4.16.4"
+    "express": "^4.16.4"
   }
 }
