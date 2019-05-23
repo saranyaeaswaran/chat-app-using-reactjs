@@ -1,7 +1,7 @@
 # React_Chat_App
-A chat app created using React JS and Pusher Chatkit API
-This project is using https://scrimba.com/playlist/pbNpTv as guidance
-This chatapp is live on https://saranya-react-chatapp.herokuapp.com. Please login as 'anyone' in the prompt and join a room to start chatting.
+- A chat app created using **React JS** and **Pusher Chatkit API**
+- This project is using [Scrimba ChatAp tutorial](https://scrimba.com/playlist/pbNpTv) as guidance
+- This chatapp is live on https://saranya-react-chatapp.herokuapp.com. Please login as 'anyone' in the prompt and join a room to start chatting.
 
 # Few notes on creating this App:
 
