@@ -1,7 +1,12 @@
 # React_Chat_App
 - A chat app created using **React JS** and **Pusher Chatkit API**
-- This project is using [Scrimba ChatAp tutorial](https://scrimba.com/playlist/pbNpTv) as guidance
+- This project is using [Scrimba Chat App tutorial](https://scrimba.com/playlist/pbNpTv) as guidance
 - This chatapp is live on https://saranya-react-chatapp.herokuapp.com. Please login as 'anyone' in the prompt and join a room to start chatting.
+
+## Demo :
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LrM1XRXhHLs" target="_blank"><img src="public/images/Home.png" 
+alt="chapp app demo link to youtube" width="300" height="200"/></a>
 
 # Few notes on creating this App:
 
