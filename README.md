@@ -8,6 +8,8 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LrM1XRXhHLs" target="_blank"><img src="public/images/Home.png" 
 alt="chapp app demo link to youtube" width="300" height="200"/></a>
 
+![](ChatApp_Demo.gif)
+
 # Few notes on creating this App:
 
 	• Create a dummy messgalist.js for test purpose
