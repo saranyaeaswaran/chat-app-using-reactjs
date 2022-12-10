@@ -19,7 +19,7 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "@pusher/chatkit-client": "^1.4.1"
   },
   "devDependencies": {
@@ -30,6 +30,6 @@
     "webpack": "^4.29.6",
     "webpack-cli": "^3.2.3",
     "webpack-dev-server": "^3.2.1",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   }
 }
